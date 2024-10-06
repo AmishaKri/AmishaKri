@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amisha Kumari
+- 👋 Hi, I’m Amisha Kumari
 - 👀 I’m interested in  Programming and Web Development.
 - 🌱 I’m currently learning MERN , Machine Learning and MYSQL.
 - 💞️ I’m looking to collaborate on Web Dev projects that involve both programming and creativity.
