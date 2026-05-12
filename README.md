@@ -163,20 +163,21 @@ const amisha = {
 
 ---
 
+
+
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmishaKri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmishaKri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="170"/>
+
+
+
+
+<img src="https://streak-stats.demolab.com?user=AmishaKri&theme=tokyonight&hide_border=true" width="60%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmishaKri&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF69B4&currStreakLabel=A855F7" width="55%"/>
-
-<br/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmishaKri&theme=tokyonight" width="70%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmishaKri&theme=tokyonight" width="75%"/>
 
 </div>
 
@@ -184,7 +185,7 @@ const amisha = {
 
 
 
----
+
 
 ## 🌟 What I Bring to the Table
 
