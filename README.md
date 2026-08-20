@@ -1,212 +1,194 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Amisha%20Kumari&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Open%20to%20Opportunities&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Amisha%20Kumari&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20RAG%20%7C%20LLM%20Agents&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+RAG+Applications+%26+AI+Automation;LLMs+%7C+LangChain+%7C+MERN+Stack;Open+to+AI+Engineer+%26+Full+Stack+Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Generative+AI;Building+Production+RAG+%26+LLM+Systems;AI+Agents+%7C+LangGraph+%7C+LangChain;Python+%7C+FastAPI+%7C+Vector+Databases;Open+to+AI+Engineer+%26+GenAI+Roles" />
 </p>
 
-<br/>
-
+<p>
 <img src="https://img.shields.io/badge/AI%20Engineer-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-0A66C2?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/2025%20Graduate-22C55E?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/1%20Year%20Experience-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20to%20Work-EC4899?style=for-the-badge&logo=handshake&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=AmishaKri&label=Profile%20Views&color=a855f7&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GenAI-FF6B6B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=handshake&logoColor=white"/>
+</p>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
-```javascript
-const amisha = {
-  role: "AI Engineer & Full Stack Developer",
+I'm **Amisha Kumari**, an AI Engineer with **1+ year of professional experience** building and deploying production Generative AI applications.
 
-  experience: "1 Year Experience in AI Engineering",
+My primary focus is building practical AI systems using:
 
-  expertise: [
-    "RAG Applications",
-    "AI Chatbots",
-    "LLM Integrations",
-    "AI Automation Systems",
-    "Web Scraping",
-    "Portfolio Intelligence Platforms",
-    "Full Stack Development"
-  ],
+* RAG pipelines
+* LLM applications
+* AI agents
+* Multi-agent workflows
+* Semantic search
+* Embeddings
+* AI automation
+* Python backend services
 
-  techStack: {
-    frontend: [
-      "React",
-      "TypeScript",
-      "JavaScript",
-      "Tailwind CSS"
-    ],
-
-    backend: [
-      "Node.js",
-      "Express.js",
-      "FastAPI"
-    ],
-
-    databases: [
-      "MongoDB",
-      "MySQL",
-      "PostgreSQL",
-      "Redis"
-    ],
-
-    ai: [
-      "OpenAI",
-      "LangChain",
-      "RAG",
-      "Vector Databases",
-      "Machine Learning"
-    ]
-  },
-
-  currentFocus: [
-    "AI Agents",
-    "RAG Systems",
-    "Automation Workflows",
-    "AI SaaS Platforms",
-    "Investor Intelligence Systems"
-  ],
-
-  openTo: [
-    "AI Engineer Roles",
-    "Full Stack Developer Roles",
-    "Freelance Projects",
-    "Collaborations"
-  ]
-};
-```
+I enjoy taking AI systems from **prototype → production → measurable business impact**.
 
 ---
 
-## 💼 Professional Experience
+# Professional Experience
 
-### 🏢 AIforBusiness — *AI Engineer*
-`2024 – Present · 1 Year`
+### AIforBusiness — Software Developer (AI Engineering)
 
-- 🤖 Built and deployed **AI Chatbots** with context-aware LLM integrations
-- 📚 Developed **RAG (Retrieval-Augmented Generation)** systems for intelligent document Q&A
-- 🌐 Created **Investor Portfolio Intelligence Platforms** using AI-powered web scraping
-- ⚙️ Designed **AI Automation Workflows** to streamline business operations
-- 🔍 Worked with **Vector Databases**, semantic search & embedding pipelines
+**June 2025 – Present | Remote**
 
----
+I work on production AI systems involving recruitment intelligence, RAG, multi-agent workflows, LLM integrations and automated data processing.
 
-## 🚀 Featured Projects
+### Key Contributions
 
-### 🤖 AI Chatbot Platform
-> AI-powered conversational assistant with context-aware responses, LLM integration, memory handling & API integrations.
-
-`Python` `OpenAI` `FastAPI` `React` `LangChain`
+* Built an AI-powered recruitment platform processing **12,000+ candidate profiles** using LangChain and embedding models.
+* Designed RAG pipelines using **FAISS and ChromaDB**, improving retrieval relevance by **32%** and reducing manual screening effort by **70%**.
+* Built stateful **LangGraph multi-agent workflows** coordinating **5 AI agents**, achieving a **96% workflow completion rate**.
+* Built an AI-powered lead-generation platform processing **500+ leads/day**, reducing manual research effort by **90%+**.
+* Integrated and benchmarked LLM workflows across **Claude, Gemini, Groq and Together AI**, reducing inference costs by **35%**.
+* Containerized AI services using **Docker** for consistent multi-environment deployments.
 
 ---
 
-### 📚 RAG Document Intelligence System
-> Retrieval-Augmented Generation system — PDF ingestion, semantic search, vector embeddings & conversational querying.
+# Featured AI Projects
 
-`LangChain` `OpenAI` `Vector DB` `Python` `FastAPI`
+## AI Interview Prep Agent
 
----
+AI-powered interview preparation platform that analyzes resumes and generates personalized technical interview questions and feedback.
 
-### 🌐 Investor Portfolio Intelligence Platform
-> AI system that scrapes & analyzes startup portfolios — company enrichment, AI summaries, sector classification & dashboard.
+**Tech:** Python · FastAPI · React · Groq · Llama
 
-`Playwright` `Node.js` `OpenAI` `MongoDB`
+**Highlights:**
 
----
-
-### 🎬 CinemaGhar — Movie Booking Platform
-> Full-stack MERN movie booking app with authentication, admin dashboard, theatre approval, ticket booking & payment integration.
-
-`React` `Node.js` `MongoDB` `Express.js`
+* Resume parsing for PDF/DOCX files
+* Personalized technical question generation
+* Real-time answer evaluation
+* AI-generated feedback and improvement roadmap
+* Average response latency of approximately **1.8 seconds**
+* Deployed frontend and backend
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## RAG / Document Intelligence
+
+AI-powered document intelligence systems using retrieval-augmented generation for semantic search and contextual question answering.
+
+**Tech:** Python · LangChain · RAG · Embeddings · FAISS · ChromaDB · LLM APIs
+
+**Core concepts:**
+
+`Document Ingestion → Chunking → Embeddings → Vector Search → Retrieval → LLM → Response`
+
+---
+
+## AI Recruitment Intelligence
+
+Production AI platform for candidate sourcing, job matching and recruitment intelligence.
+
+**Tech:** Python · LangChain · Embeddings · RAG · LangGraph · Vector Databases
+
+**Scale:**
+
+* 12,000+ candidate profiles
+* 5-agent workflow
+* 96% workflow completion
+* 32% retrieval relevance improvement
+* 70% reduction in manual screening
+
+---
+
+# Technical Skills
+
+### AI / Generative AI
+
+`Python` `RAG` `LLM Applications` `AI Agents` `LangChain` `LangGraph` `Embeddings` `Semantic Search` `Prompt Engineering`
+
+### LLM Providers
+
+`Claude` `Gemini` `Groq` `Together AI`
+
+### Backend
+
+`FastAPI` `Node.js` `Express.js` `REST APIs`
+
+### Vector & Databases
+
+`FAISS` `ChromaDB` `MongoDB` `MySQL`
+
+### Frontend
+
+`React.js` `JavaScript` `TypeScript` `Tailwind CSS`
+
+### DevOps / Cloud
+
+`Docker` `GitHub Actions` `Render` `Vercel` `AWS`
+
+### Core CS
+
+`Data Structures & Algorithms` `OOP` `DBMS` `REST APIs` `System Design` `PyTest`
+
+---
+
+# Problem Solving
+
+* **350+ LeetCode problems solved**
+* LeetCode contest rating: **1390**
+* Flipkart GRID 6.0 participant
+
+---
+
+# What I Build
+
+| Area              | Experience                                    |
+| ----------------- | --------------------------------------------- |
+| Generative AI     | LLM applications, RAG, AI agents              |
+| RAG               | Embeddings, semantic search, vector retrieval |
+| AI Agents         | LangGraph multi-agent workflows               |
+| AI Automation     | Automated research and business workflows     |
+| Backend           | Python, FastAPI, REST APIs                    |
+| Data Intelligence | Web data extraction and enrichment            |
+| Deployment        | Docker, Render, Vercel                        |
+
+---
+
+# Currently Focused On
+
+* Production GenAI systems
+* Advanced RAG architectures
+* Multi-agent AI systems
+* LLM evaluation and optimization
+* AI automation
+* Scalable AI backends
+* AI SaaS applications
+
+---
+
+# Connect With Me
 
 <div align="center">
 
-**Frontend**
+<a href="https://www.linkedin.com/in/amisha-kumari-544977226/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+<a href="mailto:amishansec3105@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**Backend**
+<a href="https://github.com/AmishaKri">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vector%20DB-7C3AED?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-**Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-
-</div>
-
----
-
-
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-
-
-
-
-<img src="https://streak-stats.demolab.com?user=AmishaKri&theme=tokyonight&hide_border=true" width="60%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmishaKri&theme=tokyonight" width="75%"/>
-
-</div>
-
----
-
-
-
-
-
-## 🌟 What I Bring to the Table
-
-| 💡 Skill Area | 🛠️ What I've Built |
-|---|---|
-| 🤖 AI Engineering | RAG pipelines, LLM chatbots, automation agents |
-| 🌐 Full Stack | MERN apps, REST APIs, SaaS platforms |
-| 🔍 Data & Scraping | Web intelligence, portfolio extraction, enrichment |
-| ⚙️ Automation | AI workflows, document processing, semantic search |
-| 🗄️ Databases | MongoDB, MySQL, PostgreSQL, Vector DBs |
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amishansec3105@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amisha-kumari-544977226/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmishaKri)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Amisha_3105/)
+<a href="https://leetcode.com/u/Amisha_3105/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
@@ -214,12 +196,8 @@ const amisha = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+### AI Engineer · GenAI · RAG · LLM Agents
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-### ✨ Thanks for visiting! If you're hiring — let's talk! 🚀
-
-*AI Engineer · Full Stack Developer · Open to Opportunities*
+**Open to AI Engineer, GenAI Engineer, LLM Engineer and AI Backend opportunities.**
 
 </div>
